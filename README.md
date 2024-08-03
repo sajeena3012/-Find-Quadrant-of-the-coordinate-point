@@ -2,7 +2,6 @@
 Write a program to accept a coordinate point in an XY coordinate system and determine in which quadrant the coordinate point lies.
 
 Print
-
 "1st Quadrant": if  +x,+y
 "2nd Quadrant": if -x,+y
 "3rd Quadrant": if -x,-y
